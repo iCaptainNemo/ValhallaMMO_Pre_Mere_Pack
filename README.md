@@ -5,7 +5,7 @@ A Minecraft Bedrock resource pack designed to work with [ValhallaMMO](https://ww
 
 ## Overview
 
-This resource pack contains custom models and textures for ValhallaMMO items when playing on Minecraft Bedrock Edition. It is specifically designed to be used as a merge pack with Kas-tle's GeyserMC converter tool.
+This Minecraft Bedrock resource pack contains custom model attachables and inventory textures for ValhallaMMO items when playing on Minecraft Bedrock Edition via GeyserMC. It is specifically designed to be used as a merge pack with the original ValhallaMMO Java resource Pack and Kas-tle's GeyserMC converter tool.
 
 
 ## Contents
@@ -20,7 +20,8 @@ This resource pack contains custom models and textures for ValhallaMMO items whe
 
 ## Usage
 
-Convert this pack with your Java resource pack using [java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh)
+1. Import Sprites.json into the Java Resource pack. Place it inside the main folder next to pack.mcmeta
+2. Paste Pre merge link, in releases, into the section "Bedrock Merge Pack Direct Download URL" and Convert this pack with your Java resource pack using [java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh)
 
 ## License
 
