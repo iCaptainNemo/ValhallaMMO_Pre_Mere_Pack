@@ -1,12 +1,12 @@
 # ValhallaMMO Merge Pack for Bedrock
+![ValhallaMMO](https://github.com/iCaptainNemo/ValhallaMMO_Pre_Mere_Pack/blob/main/VahallaMMO.png?raw=true)
 
-A Minecraft Bedrock resource pack designed to work with ![ValhallaMMO](https://github.com/iCaptainNemo/ValhallaMMO_Pre_Mere_Pack/blob/main/VahallaMMO.png?raw=true) plugin through [Kas-tle's Java to Bedrock converter](https://github.com/Kas-tle/java2bedrock.sh).
+A Minecraft Bedrock resource pack designed to work with [ValhallaMMO](https://www.spigotmc.org/resources/valhallammo-1-19-1-21-4.94921/) plugin through [Kas-tle's Java to Bedrock converter](https://github.com/Kas-tle/java2bedrock.sh).
 
 ## Overview
 
 This resource pack contains custom models and textures for ValhallaMMO items when playing on Minecraft Bedrock Edition. It is specifically designed to be used as a merge pack with Kas-tle's GeyserMC converter tool.
 
-![ValhallaMMO Items](https://www.spigotmc.org/attachments/upload_2024-9-4_20-54-46-png.851565/)
 
 ## Contents
 
