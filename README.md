@@ -21,7 +21,9 @@ This Minecraft Bedrock resource pack contains custom model attachables and inven
 ## Usage
 
 1. Import Sprites.json into the Java Resource pack. Place it inside the main folder next to pack.mcmeta
-2. Paste Pre merge link, in releases, into the section "Bedrock Merge Pack Direct Download URL" and Convert this pack with your Java resource pack using [java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh)
+2. Paste Pre merge link, in releases on this Github page, into the section "Bedrock Merge Pack Direct Download URL" and Convert this pack with your Java resource pack using [java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh)
+3. Inside the generated pack; geyser_resources.mcpack, rereplace attachables with the ones from this pre merge pack.
+4. Upload finished geyser_resource.mcpack into Geyser plugin packs folder.
 
 ## License
 
