@@ -1,6 +1,6 @@
 # ValhallaMMO Merge Pack for Bedrock
 
-A Minecraft Bedrock resource pack designed to work with [ValhallaMMO](https://www.spigotmc.org/resources/valhallammo-1-19-1-21-4.94921/) plugin through [Kas-tle's Java to Bedrock converter](https://github.com/Kas-tle/java2bedrock.sh).
+A Minecraft Bedrock resource pack designed to work with [ValhallaMMO](valhallaMMO.png) plugin through [Kas-tle's Java to Bedrock converter](https://github.com/Kas-tle/java2bedrock.sh).
 
 ## Overview
 
