@@ -28,5 +28,5 @@ This project is licensed under CC0 1.0 Universal - see the LICENSE file for deta
 
 ## Credits
 
-- [ValhallaMMO](https://www.spigotmc.org/resources/valhallammo-1-19-1-21-4.94921/) - Original plugin
+- [ValhallaMMO](https://www.spigotmc.org/resources/valhallammo-1-19-1-21-4.94921/) - plugin
 - [Kas-tle's java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh) - Conversion tool
