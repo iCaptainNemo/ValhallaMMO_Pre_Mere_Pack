@@ -94,25 +94,25 @@
     "iron_hoe": [
         {
             "custom_model_data": 9918290,
-            "sprite": "textures/item/weapons/copper_hoe"
+            "sprite": "textures/item/tools/copper_hoe"
         }
     ],
     "iron_pickaxe": [
         {
             "custom_model_data": 9918290,
-            "sprite": "textures/item/weapons/copper_pickaxe"
+            "sprite": "textures/item/tools/copper_pickaxe"
         }
     ],
     "iron_shovel": [
         {
             "custom_model_data": 9918290,
-            "sprite": "textures/item/weapons/copper_shovel"
+            "sprite": "textures/item/tools/copper_shovel"
         }
     ],
     "iron_axe": [
         {
             "custom_model_data": 9918290,
-            "sprite": "textures/item/weapons/copper_axe"
+            "sprite": "textures/item/tools/copper_axe"
         }
     ],
     "wooden_sword": [
