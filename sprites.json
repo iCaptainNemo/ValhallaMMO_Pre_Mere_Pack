@@ -1,0 +1,246 @@
+{
+    "stone_sword": [
+        {
+            "custom_model_data": 1981820,
+            "sprite": "textures/item/weapons/stone_dagger"
+        },
+        {
+            "custom_model_data": 1981821,
+            "sprite": "textures/item/weapons/stone_mace"
+        },
+        {
+            "custom_model_data": 1981822,
+            "sprite": "textures/item/weapons/stone_rapier"
+        },
+        {
+            "custom_model_data": 1981825,
+            "sprite": "textures/item/weapons/stone_warhammer"
+        },
+        {
+            "custom_model_data": 1981826,
+            "sprite": "textures/item/weapons/stone_spear"
+        },
+        {
+            "custom_model_data": 1981827,
+            "sprite": "textures/item/weapons/stone_greataxe"
+        },
+        {
+            "custom_model_data": 1981840,
+            "sprite": "textures/item/weapons/stone_knuckles"
+        }
+    ],
+    "iron_sword": [
+        {
+            "custom_model_data": 1981820,
+            "sprite": "textures/item/weapons/iron_dagger"
+        },
+        {
+            "custom_model_data": 1981821,
+            "sprite": "textures/item/weapons/iron_mace"
+        },
+        {
+            "custom_model_data": 1981822,
+            "sprite": "textures/item/weapons/iron_rapier"
+        },
+        {
+            "custom_model_data": 1981825,
+            "sprite": "textures/item/weapons/iron_warhammer"
+        },
+        {
+            "custom_model_data": 1981826,
+            "sprite": "textures/item/weapons/iron_spear"
+        },
+        {
+            "custom_model_data": 1981827,
+            "sprite": "textures/item/weapons/iron_greataxe"
+        },
+        {
+            "custom_model_data": 1981840,
+            "sprite": "textures/item/weapons/iron_knuckles"
+        },
+        {
+            "custom_model_data": 9918290,
+            "sprite": "textures/item/weapons/copper_sword"
+        },
+        {
+            "custom_model_data": 9918390,
+            "sprite": "textures/item/weapons/copper_dagger"
+        },
+        {
+            "custom_model_data": 9918391,
+            "sprite": "textures/item/weapons/copper_mace"
+        },
+        {
+            "custom_model_data": 9918392,
+            "sprite": "textures/item/weapons/copper_rapier"
+        },
+        {
+            "custom_model_data": 9918395,
+            "sprite": "textures/item/weapons/copper_warhammer"
+        },
+        {
+            "custom_model_data": 9918396,
+            "sprite": "textures/item/weapons/copper_spear"
+        },
+        {
+            "custom_model_data": 9918397,
+            "sprite": "textures/item/weapons/copper_greataxe"
+        },
+        {
+            "custom_model_data": 9918440,
+            "sprite": "textures/item/weapons/copper_knuckles"
+        }
+    ],
+    "iron_hoe": [
+        {
+            "custom_model_data": 9918290,
+            "sprite": "textures/item/weapons/copper_hoe"
+        }
+    ],
+    "iron_pickaxe": [
+        {
+            "custom_model_data": 9918290,
+            "sprite": "textures/item/weapons/copper_pickaxe"
+        }
+    ],
+    "iron_shovel": [
+        {
+            "custom_model_data": 9918290,
+            "sprite": "textures/item/weapons/copper_shovel"
+        }
+    ],
+    "iron_axe": [
+        {
+            "custom_model_data": 9918290,
+            "sprite": "textures/item/weapons/copper_axe"
+        }
+    ],
+    "wooden_sword": [
+        {
+            "custom_model_data": 1981820,
+            "sprite": "textures/item/weapons/wooden_dagger"
+        },
+        {
+            "custom_model_data": 1981821,
+            "sprite": "textures/item/weapons/wooden_mace"
+        },
+        {
+            "custom_model_data": 1981822,
+            "sprite": "textures/item/weapons/wooden_rapier"
+        },
+        {
+            "custom_model_data": 1981825,
+            "sprite": "textures/item/weapons/wooden_warhammer"
+        },
+        {
+            "custom_model_data": 1981826,
+            "sprite": "textures/item/weapons/wooden_spear"
+        },
+        {
+            "custom_model_data": 1981827,
+            "sprite": "textures/item/weapons/wooden_greataxe"
+        },
+        {
+            "custom_model_data": 1981840,
+            "sprite": "textures/item/weapons/wooden_knuckles"
+        }
+    ],
+    "wooden_pickaxe": [
+        {
+            "custom_model_data": 8877280,
+            "sprite": "textures/item/weapons/netherite_jewelry_hammer"
+        }
+    ],
+    "shears": [
+        {
+            "custom_model_data": 8177280,
+            "sprite": "textures/item/weapons/netherite_shears"
+        }
+    ],
+    "netherite_sword": [
+        {
+            "custom_model_data": 1981820,
+            "sprite": "textures/item/weapons/netherite_dagger"
+        },
+        {
+            "custom_model_data": 1981821,
+            "sprite": "textures/item/weapons/netherite_mace"
+        },
+        {
+            "custom_model_data": 1981822,
+            "sprite": "textures/item/weapons/netherite_rapier"
+        },
+        {
+            "custom_model_data": 1981825,
+            "sprite": "textures/item/weapons/netherite_warhammer"
+        },
+        {
+            "custom_model_data": 1981826,
+            "sprite": "textures/item/weapons/netherite_spear"
+        },
+        {
+            "custom_model_data": 1981827,
+            "sprite": "textures/item/weapons/netherite_greataxe"
+        },
+        {
+            "custom_model_data": 1981840,
+            "sprite": "textures/item/weapons/netherite_knuckles"
+        }
+    ],
+    "diamond_sword": [
+        {
+            "custom_model_data": 1981820,
+            "sprite": "textures/item/weapons/diamond_dagger"
+        },
+        {
+            "custom_model_data": 1981821,
+            "sprite": "textures/item/weapons/diamond_mace"
+        },
+        {
+            "custom_model_data": 1981822,
+            "sprite": "textures/item/weapons/diamond_rapier"
+        },
+        {
+            "custom_model_data": 1981825,
+            "sprite": "textures/item/weapons/diamond_warhammer"
+        },
+        {
+            "custom_model_data": 1981826,
+            "sprite": "textures/item/weapons/diamond_spear"
+        },
+        {
+            "custom_model_data": 1981827,
+            "sprite": "textures/item/weapons/diamond_greataxe"
+        },
+        {
+            "custom_model_data": 1981840,
+            "sprite": "textures/item/weapons/diamond_knuckles"
+        }
+    ],
+    "golden_sword": [
+        {
+            "custom_model_data": 1981820,
+            "sprite": "textures/item/weapons/golden_dagger"
+        },
+        {
+            "custom_model_data": 1981821,
+            "sprite": "textures/item/weapons/golden_mace"
+        },
+        {
+            "custom_model_data": 1981821,
+            "sprite": "textures/item/weapons/golden_rapier"
+        },
+        {
+            "custom_model_data": 1981822,
+            "sprite": "textures/item/weapons/golden_warhammer"
+        },
+        {
+            "custom_model_data": 1981826,
+            "sprite": "textures/item/weapons/golden_spear"
+        },
+        {
+            "custom_model_data": 1981827,
+            "sprite": "textures/item/weapons/golden_greataxe"
+        }
+    ]
+}

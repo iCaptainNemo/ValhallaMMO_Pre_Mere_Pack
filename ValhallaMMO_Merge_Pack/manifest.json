@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "ValhallaMMO Pre Merge Pack for Geyser",
+        "name": "ValhallaMMO Pre Merge Pack",
+        "uuid": "1cccaf70-86a1-4b4b-864d-a8aac7ccf701",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            3
+        ]
+    },
+    "modules": [
+        {
+            "description": "Adds 2D item icons for use with ValhallaMMO",
+            "type": "resources",
+            "uuid": "c5286871-4c9f-45b7-bbc9-6b17dd75cabf",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
