@@ -231,12 +231,16 @@
             "sprite": "textures/item/weapons/golden_rapier"
         },
         {
-            "custom_model_data": 1981822,
+            "custom_model_data": 1981825,
             "sprite": "textures/item/weapons/golden_warhammer"
         },
         {
             "custom_model_data": 1981826,
             "sprite": "textures/item/weapons/golden_spear"
+        },
+        {
+            "custom_model_data": 1981840,
+            "sprite": "textures/item/weapons/golden_knuckles"
         },
         {
             "custom_model_data": 1981827,
